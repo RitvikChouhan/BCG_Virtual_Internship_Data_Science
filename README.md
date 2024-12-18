@@ -48,4 +48,4 @@ When preparing this slide, consider:
 - The level of technical detail necessary for the audience
 - The impact the model could have on the client’s bottom line
 
-Always ask yourself, “So what?” when preparing content for the client.
+
